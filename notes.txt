@@ -1,5 +1,0 @@
-pnpm create vite .
-
-pnpm add tailwindcss @tailwindcss/vite
-
-pnpm add @azure/msal-browser @azure/msal-react
